@@ -46,7 +46,7 @@ The application suite is designed to nurture daily spiritual reading habits and 
       </td>
       <td width="20%" align="center">
         <img src="screenshots/notification-scheduler.png" alt="Local Notification Scheduler" width="100%" />
-        <br /><b>Notification Scheduler</b>
+        <br /><b>Video Screen</b>
       </td>
     </tr>
   </table>
