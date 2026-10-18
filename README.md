@@ -30,23 +30,23 @@ The application suite is designed to nurture daily spiritual reading habits and 
     <tr>
       <td width="20%" align="center">
         <img src="screenshots/reels-video-player.png" alt="Vertical Video Reels Player" width="100%" />
-        <br /><b>Vertical Video Reels Player</b>
+        <br /><b>>Reading Plans Catalog</b>
       </td>
       <td width="20%" align="center">
         <img src="screenshots/reading-plans-list.png" alt="Curated Reading Plans Catalog" width="100%" />
-        <br /><b>Reading Plans Catalog</b>
+        <br /><b</b>
       </td>
       <td width="20%" align="center">
         <img src="screenshots/plan-detail-overview.png" alt="Plan Detail & Day Overview" width="100%" />
-        <br /><b>Plan Detail & Day Overview</b>
+        <br /><b>Daily Scripture Checklis</b>
       </td>
       <td width="20%" align="center">
         <img src="screenshots/daily-checklist.png" alt="Daily Scripture Checklist" width="100%" />
-        <br /><b>Daily Scripture Checklist</b>
+        <br /><b>t</b>
       </td>
       <td width="20%" align="center">
         <img src="screenshots/notification-scheduler.png" alt="Local Notification Scheduler" width="100%" />
-        <br /><b>Video Screen</b>
+        <br /><b>Vertical Video Reels Playe</b>
       </td>
     </tr>
   </table>
