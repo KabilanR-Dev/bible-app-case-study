@@ -34,7 +34,7 @@ The application suite is designed to nurture daily spiritual reading habits and 
       </td>
       <td width="20%" align="center">
         <img src="screenshots/reading-plans-list.png" alt="Curated Reading Plans Catalog" width="100%" />
-        <br /><b</b>
+        <br />Plan Detail<b</b>
       </td>
       <td width="20%" align="center">
         <img src="screenshots/plan-detail-overview.png" alt="Plan Detail & Day Overview" width="100%" />
@@ -42,7 +42,7 @@ The application suite is designed to nurture daily spiritual reading habits and 
       </td>
       <td width="20%" align="center">
         <img src="screenshots/daily-checklist.png" alt="Daily Scripture Checklist" width="100%" />
-        <br /><b>t</b>
+        <br /><b>Notification Scheduler</b>
       </td>
       <td width="20%" align="center">
         <img src="screenshots/notification-scheduler.png" alt="Local Notification Scheduler" width="100%" />
