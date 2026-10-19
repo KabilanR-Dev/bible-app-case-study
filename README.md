@@ -126,6 +126,6 @@ This repository documents my personal engineering contributions to the project. 
 
 **Kabilan R.** — Flutter & Mobile Application Developer  
 - **🌐 Portfolio**: [https://kabilan-portfolio-ochre.vercel.app/](https://kabilan-portfolio-ochre.vercel.app/)  
-- **🐙 GitHub**: [@Kabilan0624](https://github.com/Kabilan0624)  
+- **🐙 GitHub**: [@KabilanR-Dev](https://github.com/KabilanR-Dev)  
 - **💼 LinkedIn**: [linkedin.com/in/kabilan-r-91432b268](https://www.linkedin.com/in/kabilan-r-91432b268)  
 - **📧 Email**: [kabilanr244@gmail.com](mailto:kabilanr244@gmail.com)
